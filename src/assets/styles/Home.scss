@@ -1,0 +1,27 @@
+.Home {
+  margin-top: 10px;
+  text-align: center;
+}
+.Home h3 {
+  font-family: "Dancing Script", cursive;
+  font-size: 50px;
+  text-align: center;
+  color: rgb(248, 167, 142);
+}
+
+.menu-options {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  height: 8vh;
+  width: 10vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.last-client {
+  width: 50vh;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+}

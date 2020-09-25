@@ -1,0 +1,17 @@
+@import "./Vars.scss";
+
+.menu-button1 {
+  border-radius: 25px;
+  border-style: none;
+  width: 20vh;
+  height: 8vh;
+  outline-style: none;
+  background-color: $bgButton1;
+}
+.menu-button2 {
+  border-style: none;
+  border-radius: 25px;
+  width: 20vh;
+  height: 8vh;
+  background-color: $bgButton2;
+}
